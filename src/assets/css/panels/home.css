@@ -79,6 +79,12 @@
     display: flex;
 }
 
+.server-status-image {
+    width: 40%;
+    margin-top: 40px;
+}
+
+
 /*******************************************************************************
  *                                                                             *
  * news server                                                                 *
