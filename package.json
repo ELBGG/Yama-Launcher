@@ -1,14 +1,14 @@
 {
     "name": "Yama-Launcher",
     "preductname": "Yama Launcher",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "description": "Launcher Oficial de Yama Studios",
     "main": "src/app.js",
     "author": {
         "name": "ELB_GG",
         "url": "https://www.tiktok.com/@elb_gg"
     },
-    "url": "http://34.45.252.158/",
+    "url": "http://35.223.21.60/",
     "scripts": {
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "dev": "cross-env-shell DEV_TOOL=open nodemon --exec npm start",
